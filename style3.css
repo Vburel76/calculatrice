@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+.screen{
+    font-family: 'Teko', sans-serif;
+    font-size: 2.5rem;
+    height: 28vh;
+}
+
+
+.number button{
+    font-size: 3rem;   
+
+}
+
+.number{
+    height: 69vh;
+}
+
